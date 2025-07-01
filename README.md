@@ -1,3 +1,5 @@
 Assignments:
+
 A2: Interactive C++ Dictionary
-A3: Imporved Dictionary + Basic Tic Tac Toe
+
+A3: Improved Dictionary + Basic Tic Tac Toe (Group)
