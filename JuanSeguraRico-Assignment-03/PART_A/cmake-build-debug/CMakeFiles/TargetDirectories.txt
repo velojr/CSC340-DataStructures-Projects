@@ -1,0 +1,3 @@
+/Users/Velocity/CLionProjects/PART_A/cmake-build-debug/CMakeFiles/Assignment3.dir
+/Users/Velocity/CLionProjects/PART_A/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/Velocity/CLionProjects/PART_A/cmake-build-debug/CMakeFiles/rebuild_cache.dir

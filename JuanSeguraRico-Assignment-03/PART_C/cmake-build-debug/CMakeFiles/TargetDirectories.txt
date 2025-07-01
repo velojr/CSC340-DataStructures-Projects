@@ -1,0 +1,3 @@
+/Users/Velocity/Desktop/CSC 340/PART_C/cmake-build-debug/CMakeFiles/PART_C.dir
+/Users/Velocity/Desktop/CSC 340/PART_C/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/Velocity/Desktop/CSC 340/PART_C/cmake-build-debug/CMakeFiles/rebuild_cache.dir
